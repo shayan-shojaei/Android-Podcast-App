@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Podcast App</string>
+    <string name="connection_error">There was a problem\nwith your connection</string>
+    <string name="data_retrieval_error">There was a problem\nwith data retrieval</string>
+    <string name="by">By\u0020</string>
+    <string name="description">Description</string>
+    <string name="episodes">\u0020episodes</string>
+    <string name="download">Download</string>
+    <string name="download_started">Download Started</string>
+    <string name="license_text">Powered By LISTEN NOTE Api</string>
+</resources>
